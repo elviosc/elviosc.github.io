@@ -1,6 +1,6 @@
 {
-    "name": "appFaq",
-    "short_name": "appFaq",
+    "name": "appFAQ",
+    "short_name": "appFAQ",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
